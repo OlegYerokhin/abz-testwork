@@ -1,0 +1,21 @@
+@import "./reset.css";
+
+@font-face {
+  font-family: "NunitoRegular";
+  src: url('../fonts/Nunito-Regular.ttf');
+  font-style: normal;
+  font-weight: normal;
+}
+
+h1 {
+  font-family: 'NunitoRegular';
+  font-size: 40px;
+  line-height: 40px;
+}
+
+body {
+  font-family: 'NunitoRegular';
+  font-size: 16px;
+  line-height: 26px;
+}
+
